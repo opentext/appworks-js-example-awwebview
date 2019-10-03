@@ -34,7 +34,7 @@ Open a webview with a URL (e.g. "http://www.opentext.com"), a target (e.g. "\_bl
 
 Examples
 ```javascript
-var webview = new Appworks.AWWebView();
+var webView = new Appworks.AWWebView();
 var url = "http://www.opentext.com";
 var target = "_blank";
 var options = "location=yes, closebuttoncaption=close";
